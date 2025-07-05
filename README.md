@@ -4,7 +4,6 @@
   🌸 A Front-End Web Development Student from Pakistan <br>
   💻 Learning HTML & CSS at Saylani Mass IT Training <br>
   🌱 Exploring creative layouts, forms, and clean UI <br>
-  📂 SMIT Assignments → <a href="https://github.com/Amna7877/SMIT-Projects">Click to View Repo</a> <br>
 </p>
 
 ---
@@ -30,4 +29,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Amna7877-181717?style=flat&logo=github)](https://github.com/Amna7877)
 
-> “Learning, glowing, and building one tag at a time 💅”
+
