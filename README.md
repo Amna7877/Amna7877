@@ -38,7 +38,7 @@ I love turning ideas into **polished, user-friendly interfaces** and always open
   <img src="https://github-readme-stats.vercel.app/api?username=Amna7877&show_icons=true&theme=tokyonight&border_radius=10" alt="Amna's GitHub Stats" height="150px"/>
 
   <!-- GitHub Streak Stats (Fixed Link) -->
-  <img src="https://streak-stats.demolab.com?user=Amna7877&theme=tokyonight&border_radius=10" alt="Amna's GitHub Streak" height="150px"/>
+<img src="https://streak-stats.demolab.com?user=Amna7877&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 <!-- Top Languages -->
