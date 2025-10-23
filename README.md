@@ -35,7 +35,7 @@ I love turning ideas into **polished, user-friendly interfaces** and always open
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amna7877&show_icons=true&theme=tokyonight" alt="Amna's GitHub Stats" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amna7877&theme=tokyonight" alt="GitHub Streak" height="150px"/>
+<img src="https://streak-stats.demolab.com?user=Amna7877&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="150px"/>
 </p>
 
 <p align="center">
