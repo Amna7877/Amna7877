@@ -1,27 +1,34 @@
-
-<h1 align="center">Hi there, I'm Amna 👋</h1>
+<h1 align="center">✨ Hey there, I'm Amna Mehmood ✨</h1>
 
 <p align="center">
-  🌸 A Front-End Web Development Student from Pakistan <br>
-  💻 Learning Web Development at Saylani Mass IT Training Program (SMIT) <br>
-  🌱 Exploring creative layouts, forms, JavaScript, React, and clean UI <br>
+  🌼 Front-End Developer in the making | Based in Pakistan 🌼<br>
+  📚 Learning Web Development at <strong>Saylani Mass IT Training (SMIT)</strong><br>
+  🎨 Turning code into creative, responsive digital experiences<br>
 </p>
 
 ---
 
-### 💫 About Me  
-Frontend Developer passionate about crafting **responsive and interactive web experiences**.  
-Currently building real-world projects and exploring **Full Stack development** with **React, Vite, and Firebase**.  
-I love turning ideas into **polished, user-friendly interfaces** and always open to **collaborations and internships**.
+### 🌸 A Little About Me
+
+I'm a creative soul who loves building **beautiful, functional websites** that leave a mark.  
+My journey in web development started with curiosity — and now it's my passion.  
+I believe in writing clean code, exploring new tools, and making the web a more delightful place — one project at a time.
+
+🎯 Currently focused on:  
+- Mastering **React, Vite, and Firebase**  
+- Designing **user-friendly interfaces** with attention to detail  
+- Working on **real-world portfolio projects**  
+- Looking for **internships and collab opportunities** to grow and contribute
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tools I Work With
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript%20(ES6)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -31,84 +38,81 @@ I love turning ideas into **polished, user-friendly interfaces** and always open
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Snapshot
 
 <p align="center">
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Amna7877&show_icons=true&theme=tokyonight&border_radius=10" alt="Amna's GitHub Stats" height="150px"/>
-
-  <!-- GitHub Streak Stats (Fixed Link) -->
-<img src="https://streak-stats.demolab.com?user=Amna7877&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amna7877&show_icons=true&theme=tokyonight&border_radius=10" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=Amna7877&theme=tokyonight&border_radius=10" height="160px"/>
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna7877&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna7877&layout=compact&theme=tokyonight&border_radius=10" height="160px"/>
 </p>
 
+---
+
+### 🚀 My Creative Projects
+
+| Project | What I Built With |
+|--------|-------------------|
+| 🧮 **Smart Calculator** | HTML, CSS, JavaScript — a stylish, functional calculator |
+| ✅ **Task Flow App** | Task manager with add/edit/delete features |
+| 📝 **Form Validator** | JavaScript form with real-time validation |
+| 🏫 **Elite School Website** | Responsive school site using HTML, CSS, Bootstrap |
+| 🖼️ **Image Swapper** | Interactive image swap using JavaScript events |
+| 📘 **Personal Blog Layout** | Clean typography and responsive blog design |
+
+🔗 *Explore more on my [GitHub Profile](https://github.com/Amna7877)*
 
 ---
 
-### 🚀 Projects
+### 📖 What I'm Learning Right Now
 
-| Project | Description | GitHub Repo |
-|----------|--------------|-------------|
-| 🧮 Calculator | A simple and functional calculator built using HTML, CSS, and JavaScript | [View Repo](https://github.com/Amna7877/Calculator) |
-| ✅ Task Flow App | A task management web app to add, edit, and delete tasks | [View Repo](https://github.com/Amna7877/Task-Flow-App) |
-| 🧾 Form Validation | A JavaScript-based form validation assignment with user input checks | [View Repo](https://github.com/Amna7877/JS-Assignment-02-Form-Validation) |
-| 🏫 Elite School Website | A clean, responsive school website built using HTML, CSS, and Bootstrap | [View Repo](https://github.com/Amna7877/Elite-School-Website) |
-| 🖼️ Interactive Image Swap | A fun assignment demonstrating interactive image swapping in JS | [View Repo](https://github.com/Amna7877/HTML-Assignment-10-Interactive-Image-Swap) |
-| 📝 Blog Website | A simple blog layout project focusing on typography and responsive design | [View Repo](https://github.com/Amna7877/Blog) |
-| 🌟 More Projects | Explore all my work and ongoing assignments | [GitHub Profile](https://github.com/Amna7877) |
+- ⚛️ Full Stack with **React + Node.js + Firebase**
+- 🎨 **Tailwind CSS** for modern UI design
+- 🕹️ JavaScript game logic and interactivity
+- 🤝 Git workflows and open-source contributions
 
 ---
 
-### 📘 Currently Learning
+### 🏅 Highlights
 
-- Full Stack Development (React, Node.js, Firebase)
-- Responsive UI Design with Tailwind CSS
-- JavaScript Game Development (ES6+)
-- GitHub Collaboration & Workflow
-
----
-
-### 🏆 Achievements
-
-- Created multiple mini-projects using **HTML, CSS, and JavaScript**
-- Actively improving **GitHub profile** with new projects
-- Enrolled in **Saylani Web & App Development Course**
-- Building a **real-world portfolio website**
+- ✅ Completed multiple front-end mini-projects
+- ✅ Part of **Saylani Web & App Development Program**
+- ✅ Building a **live portfolio** to showcase my work
+- ✅ Passionate about writing clean, accessible code
 
 ---
 
-### 🤝 Collaboration Interests
+### 💞️ Let’s Create Something Amazing
 
-- UI/UX Enhancement for Web Interfaces  
-- JavaScript Game Projects  
-- Open Source Contributions (Beginner-friendly)  
-- Real Portfolio Site Development   
+I’m open to collaborating on:
+- 🎨 UI/UX-focused frontend projects  
+- 🎮 Fun interactive web apps or games  
+- 🌱 Open source beginner-friendly repos  
+- 💼 Real-world portfolio or full-stack ideas  
 
 ---
 
-### 💖 Let's Connect!
+### 💌 Connect With Me
 
 <p align="center">
-  <a href="mailto:amnamehmoodofficial78@gmail.com"><img src="https://img.shields.io/badge/Email-amna.mehmood%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:amnamehmoodofficial78@gmail.com"><img src="https://img.shields.io/badge/Email-amnamehmoodofficial78%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Amna7877"><img src="https://img.shields.io/badge/GitHub-Amna7877-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/amna-mehmood-611430371"><img src="https://img.shields.io/badge/LinkedIn-Amna%20Mehmood-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠 Portfolio Setup Instructions (for future reference)
+### 🛠 Portfolio Setup (for future reference)
+
 ```bash
-# Clone the repository
+# Clone your portfolio repo
 git clone https://github.com/Amna7877/Portfolio.git
 cd Portfolio
 
 # Install dependencies
 npm install
 
-# Start the development server
+# Run dev server
 npm run dev
-
