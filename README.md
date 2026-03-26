@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am a web developer based in Pakistan, currently focused on the **PERN stack (PostgreSQL, Express, React, Node.js)**. I build full-stack applications with clean UI, responsive design, and robust backend logic. Passionate about turning ideas into functional, user-friendly digital solutions.
+I am a web developer, currently focused on the **PERN stack (PostgreSQL, Express, React, Node.js)**. I build full-stack applications with clean UI, responsive design, and robust backend logic. Passionate about turning ideas into functional, user-friendly digital solutions.
 
 **Currently:** Deepening backend architecture, authentication, and deployment.
 
@@ -68,6 +68,20 @@ I am a web developer based in Pakistan, currently focused on the **PERN stack (P
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna7877&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amna7877&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+*Note: If images don't appear, right-click and open in new tab; they should load. GitHub may take a few minutes to cache them.*
+
+---
+
+### Achievements
+
+- **Hackathon Participation** – Participated in **Saylani Fem Hack 2026** (two final hackathons). Built two projects: *Lost & Found Portal* (MERN) and *Resume Builder* (React + Firebase). Received participation certificates.
+- **Web Development Diploma** – Completed **Web & App Development course** from **Saylani Mass IT Training (SMIT)**.
+- **GitHub Projects** – Developed multiple frontend and full‑stack projects, including MERN applications, React + Supabase apps, and backend APIs.
+- **Open Source Contribution** – Contributed to open source projects (e.g., improved documentation, fixed minor bugs).
 
 ---
 
