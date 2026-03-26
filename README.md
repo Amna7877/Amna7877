@@ -3,9 +3,9 @@
   <strong>PERN Stack Developer</strong> | Frontend Specialist | Full Stack Enthusiast
 </p>
 <p align="center">
-  <a href="https://github.com/Amna7877">GitHub</a> •
-  <a href="https://www.linkedin.com/in/amna-mehmood-611430371">LinkedIn</a> •
-  <a href="mailto:amnamehmoodofficial78@gmail.com">Email</a>
+  <a href="https://github.com/Amna7877"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amna-mehmood-611430371"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:amnamehmoodofficial78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -148,9 +148,11 @@ I am open to collaborating on:
 
 ### Connect with Me
 
-- **Email:** amnamehmoodofficial78@gmail.com
-- **GitHub:** [Amna7877](https://github.com/Amna7877)
-- **LinkedIn:** [Amna Mehmood](https://www.linkedin.com/in/amna-mehmood-611430371)
+<p align="center">
+  <a href="mailto:amnamehmoodofficial78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Amna7877"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amna-mehmood-611430371"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
