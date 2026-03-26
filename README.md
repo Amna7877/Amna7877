@@ -18,13 +18,6 @@ I am a web developer based in Pakistan, currently focused on the **PERN stack (P
 
 ---
 
-### Hackathon Experience
-
-- **Resume Builder** – Built a dynamic resume builder using **React and Firebase**. (Hackathon 1)
-- **Lost & Found Portal** – Developed a full-stack lost and found item management system using the **MERN stack**. (Hackathon 2)
-
----
-
 ### Technical Skills
 
 #### Frontend
@@ -78,13 +71,25 @@ I am a web developer based in Pakistan, currently focused on the **PERN stack (P
 
 ### Featured Projects
 
+#### Hackathon Projects
+
 | Project | Tech Stack | Repo |
 |---------|------------|------|
-| **Lost & Found Portal** (Hackathon) | MongoDB, Express, React, Node.js | [Repo](https://github.com/Amna7877/lost-and-found-portal) |
-| **Resume Builder** (Hackathon) | React, Firebase | [Repo](https://github.com/Amna7877/resume-builder) |
+| **Lost & Found Portal** | MongoDB, Express, React, Node.js | [Repo](https://github.com/Amna7877/lost-and-found-portal) |
+| **Resume Builder** | React, Firebase | [Repo](https://github.com/Amna7877/resume-builder) |
+
+#### Full Stack Applications
+
+| Project | Tech Stack | Repo |
+|---------|------------|------|
 | **Smart Budget App** | React, Context API, JavaScript | [Repo](https://github.com/Amna7877/smart-budget-app) |
 | **Backend CRUD App** | Node.js, Express.js | [Repo](https://github.com/Amna7877/backend-crud-app) |
 | **React MongoDB Form** | React, Node.js, Express, MongoDB Atlas | [Repo](https://github.com/Amna7877/react-mongodb-form) |
+
+#### Frontend & Forms
+
+| Project | Tech Stack | Repo |
+|---------|------------|------|
 | **Firebase Form** | HTML, CSS, Firebase | [Repo](https://github.com/Amna7877/Firebase-Form) |
 | **Saylani Registration Form** | HTML, CSS, Bootstrap | [Repo](https://github.com/Amna7877/saylani-registration) |
 | **Saylani Form** | HTML, CSS | [Repo](https://github.com/Amna7877/saylani-form) |
@@ -93,10 +98,10 @@ I am a web developer based in Pakistan, currently focused on the **PERN stack (P
 
 ### Currently Learning & Building
 
-- **Advanced Backend:** Scalable systems, caching (Redis), message queues, CI/CD pipelines
-- **GraphQL & PostgreSQL:** Deepening API design with Apollo Server and Postgres
-- **Containerization:** Docker for development and deployment
-- **Real-world Full Stack Projects:** Integrating frontend with robust backend services
+- Advanced Backend: Scalable systems, caching (Redis), message queues, CI/CD pipelines
+- GraphQL & PostgreSQL: Deepening API design with Apollo Server and Postgres
+- Containerization: Docker for development and deployment
+- Real-world Full Stack Projects: Integrating frontend with robust backend services
 
 ---
 
