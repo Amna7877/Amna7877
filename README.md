@@ -12,52 +12,25 @@
 
 ### About Me
 
-I am a web developer based in Pakistan, currently focused on the **PERN stack (PostgreSQL, Express, React, Node.js)**. My journey began with frontend fundamentals, and I now build full-stack applications with a strong emphasis on clean UI, responsive design, and robust backend logic. I am passionate about turning ideas into functional, user-friendly digital solutions.
+I am a web developer based in Pakistan, currently focused on the **PERN stack (PostgreSQL, Express, React, Node.js)**. I build full-stack applications with clean UI, responsive design, and robust backend logic. Passionate about turning ideas into functional, user-friendly digital solutions.
 
-**Currently:** Building real-world projects and deepening my expertise in backend architecture, authentication, and deployment.
+**Currently:** Deepening backend architecture, authentication, and deployment.
 
 ---
 
 ### Technical Skills
 
-#### Web Designing
+#### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS_Variables-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS_Animations-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Media_Queries-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grid_System-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-</p>
-
-#### JavaScript (ES6+)
-<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Async_Await-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Closures-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OOP-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Higher_Order_Functions-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Callbacks-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Promises-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-#### Frontend Frameworks & Libraries
-<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
 </p>
 
 #### Backend & Databases
@@ -71,16 +44,14 @@ I am a web developer based in Pakistan, currently focused on the **PERN stack (P
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
 </p>
 
-#### Deployment & Tools
+#### Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Surge-00C7B7?style=for-the-badge&logo=surge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
@@ -96,6 +67,8 @@ I am a web developer based in Pakistan, currently focused on the **PERN stack (P
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna7877&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+*If images don't appear, right-click and open in new tab; they should load. GitHub may take a few minutes to cache them.*
 
 ---
 
@@ -131,18 +104,15 @@ I am a web developer based in Pakistan, currently focused on the **PERN stack (P
 - Advanced Backend: Scalable systems, caching (Redis), message queues, CI/CD pipelines
 - GraphQL & PostgreSQL: Deepening API design with Apollo Server and Postgres
 - Containerization: Docker for development and deployment
-- Real-world Full Stack Projects: Integrating frontend with robust backend services
 
 ---
 
 ### Collaboration Interests
 
-I am open to collaborating on:
-
+Open to collaborating on:
 - Full Stack Web Applications (React + Node.js/Express + PostgreSQL/MongoDB)
-- Open Source Contributions (beginner-friendly projects)
-- Real-world projects requiring end-to-end development
-- UI/UX focused frontend work with modern frameworks
+- Open Source Contributions (beginner-friendly)
+- UI/UX focused frontend work
 
 ---
 
