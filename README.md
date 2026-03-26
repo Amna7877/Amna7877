@@ -1,6 +1,6 @@
 <h1 align="center">Amna Mehmood</h1>
 <p align="center">
-<strong>PERN Stack Developer</strong> | Frontend Specialist | Full Stack Enthusiast
+  <strong>PERN Stack Developer</strong> | Frontend Specialist | Full Stack Enthusiast
 </p>
 <p align="center">
   <a href="https://github.com/Amna7877"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -84,13 +84,11 @@ Full‑stack developer specializing in the **PERN stack (PostgreSQL, Express, Re
 ### GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amna7877&show_icons=true&theme=radical&hide_border=true&count_private=false" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amna7877&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna7877&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amna7877&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amna7877&bg_color=202675&color=ff00ff&line=f514d3&point=0de7f2&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 
@@ -108,101 +106,101 @@ Full‑stack developer specializing in the **PERN stack (PostgreSQL, Express, Re
 ### Featured Projects
 
 <table width="100%">
-  <tr>
-    <td width="50%">
-      <h3>Lost & Found Portal</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      </p>
-      <p>Item listing, real‑time updates, authentication.</p>
-      <p><a href="https://github.com/Amna7877/lost-and-found-portal">Repository →</a></p>
-    </td>
-    <td width="50%">
-      <h3>Resume Builder</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      </p>
-      <p>Live preview, dark mode, saved resumes.</p>
-      <p><a href="https://github.com/Amna7877/resume-builder">Repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Smart Budget App</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
-      </p>
-      <p>Budget dashboard, expense tracking, data persistence.</p>
-      <p><a href="https://github.com/Amna7877/smart-budget-app">Repository →</a></p>
-    </td>
-    <td width="50%">
-      <h3>Backend CRUD App</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      </p>
-      <p>RESTful API with full CRUD operations.</p>
-      <p><a href="https://github.com/Amna7877/backend-crud-app">Repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>React MongoDB Form</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-      <p>Full‑stack registration system with MongoDB.</p>
-      <p><a href="https://github.com/Amna7877/react-mongodb-form">Repository →</a></p>
-    </td>
-    <td width="50%">
-      <h3>Saylani Registration</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-      </p>
-      <p>Real‑time chat, admin panel, file uploads.</p>
-      <p><a href="https://github.com/Amna7877/saylani-registration">Repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Firebase Form</h3>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      </p>
-      <p>Signup/login with real‑time validation.</p>
-      <p><a href="https://github.com/Amna7877/Firebase-Form">Repository →</a></p>
-    </td>
-    <td width="50%">
-      <h3>Saylani Form</h3>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-      </p>
-      <p>Responsive registration form with navigation highlighting.</p>
-      <p><a href="https://github.com/Amna7877/saylani-form">Repository →</a></p>
-    </td>
-  </tr>
+   <tr>
+     <td width="50%">
+       <h3>Lost & Found Portal</h3>
+       <p>
+         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+       </p>
+       <p>Item listing, real‑time updates, authentication.</p>
+       <p><a href="https://github.com/Amna7877/lost-and-found-portal">Repository →</a></p>
+     </td>
+     <td width="50%">
+       <h3>Resume Builder</h3>
+       <p>
+         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+       </p>
+       <p>Live preview, dark mode, saved resumes.</p>
+       <p><a href="https://github.com/Amna7877/resume-builder">Repository →</a></p>
+     </td>
+   </tr>
+   <tr>
+     <td width="50%">
+       <h3>Smart Budget App</h3>
+       <p>
+         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
+       </p>
+       <p>Budget dashboard, expense tracking, data persistence.</p>
+       <p><a href="https://github.com/Amna7877/smart-budget-app">Repository →</a></p>
+     </td>
+     <td width="50%">
+       <h3>Backend CRUD App</h3>
+       <p>
+         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+       </p>
+       <p>RESTful API with full CRUD operations.</p>
+       <p><a href="https://github.com/Amna7877/backend-crud-app">Repository →</a></p>
+     </td>
+   </tr>
+   <tr>
+     <td width="50%">
+       <h3>React MongoDB Form</h3>
+       <p>
+         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+       </p>
+       <p>Full‑stack registration system with MongoDB.</p>
+       <p><a href="https://github.com/Amna7877/react-mongodb-form">Repository →</a></p>
+     </td>
+     <td width="50%">
+       <h3>Saylani Registration</h3>
+       <p>
+         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+       </p>
+       <p>Real‑time chat, admin panel, file uploads.</p>
+       <p><a href="https://github.com/Amna7877/saylani-registration">Repository →</a></p>
+     </td>
+   </tr>
+   <tr>
+     <td width="50%">
+       <h3>Firebase Form</h3>
+       <p>
+         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+       </p>
+       <p>Signup/login with real‑time validation.</p>
+       <p><a href="https://github.com/Amna7877/Firebase-Form">Repository →</a></p>
+     </td>
+     <td width="50%">
+       <h3>Saylani Form</h3>
+       <p>
+         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+       </p>
+       <p>Responsive registration form with navigation highlighting.</p>
+       <p><a href="https://github.com/Amna7877/saylani-form">Repository →</a></p>
+     </td>
+   </tr>
 </table>
 
 ---
