@@ -72,7 +72,6 @@ I am a web developer, currently focused on the **PERN stack (PostgreSQL, Express
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amna7877&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-*Note: If images don't appear, right-click and open in new tab; they should load. GitHub may take a few minutes to cache them.*
 
 ---
 
