@@ -75,24 +75,24 @@ I am a web developer based in Pakistan, currently focused on the **PERN stack (P
 
 | Project | Tech Stack | Repo |
 |---------|------------|------|
-| **Lost & Found Portal** | MongoDB, Express, React, Node.js | [Repo](https://github.com/Amna7877/lost-and-found-portal) |
-| **Resume Builder** | React, Firebase | [Repo](https://github.com/Amna7877/resume-builder) |
+| **Lost & Found Portal** | <code> MongoDB </code> <code> Express </code> <code> React </code> <code> Node.js </code> | [Repo](https://github.com/Amna7877/lost-and-found-portal) |
+| **Resume Builder** | <code> React </code> <code> Firebase </code> | [Repo](https://github.com/Amna7877/resume-builder) |
 
 #### Full Stack Applications
 
 | Project | Tech Stack | Repo |
 |---------|------------|------|
-| **Smart Budget App** | React, Context API, JavaScript | [Repo](https://github.com/Amna7877/smart-budget-app) |
-| **Backend CRUD App** | Node.js, Express.js | [Repo](https://github.com/Amna7877/backend-crud-app) |
-| **React MongoDB Form** | React, Node.js, Express, MongoDB Atlas | [Repo](https://github.com/Amna7877/react-mongodb-form) |
+| **Smart Budget App** | <code> React </code> <code> Context API </code> <code> JavaScript </code> | [Repo](https://github.com/Amna7877/smart-budget-app) |
+| **Backend CRUD App** | <code> Node.js </code> <code> Express.js </code> | [Repo](https://github.com/Amna7877/backend-crud-app) |
+| **React MongoDB Form** | <code> React </code> <code> Node.js </code> <code> Express </code> <code> MongoDB </code> | [Repo](https://github.com/Amna7877/react-mongodb-form) |
 
 #### Frontend & Forms
 
 | Project | Tech Stack | Repo |
 |---------|------------|------|
-| **Firebase Form** | HTML, CSS, Firebase | [Repo](https://github.com/Amna7877/Firebase-Form) |
-| **Saylani Registration Form** | HTML, CSS, Bootstrap | [Repo](https://github.com/Amna7877/saylani-registration) |
-| **Saylani Form** | HTML, CSS | [Repo](https://github.com/Amna7877/saylani-form) |
+| **Firebase Form** | <code> HTML5 </code> <code> CSS3 </code> <code> Firebase </code> | [Repo](https://github.com/Amna7877/Firebase-Form) |
+| **Saylani Registration Form** | <code> HTML5 </code> <code> CSS3 </code> <code> Bootstrap </code> | [Repo](https://github.com/Amna7877/saylani-registration) |
+| **Saylani Form** | <code> HTML5 </code> <code> CSS3 </code> | [Repo](https://github.com/Amna7877/saylani-form) |
 
 ---
 
