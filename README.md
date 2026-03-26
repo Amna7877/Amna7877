@@ -68,7 +68,6 @@ I am a web developer based in Pakistan, currently focused on the **PERN stack (P
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna7877&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-*If images don't appear, right-click and open in new tab; they should load. GitHub may take a few minutes to cache them.*
 
 ---
 
